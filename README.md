@@ -5,7 +5,7 @@
 I'm Cédric, I love building and breaking stuff ⚡
 
 - 🎶 I'm currently working on a **Musical Platform** to listen to your favorite music from your Spotify and Deezer accounts, but also your own musics.
-- 
+
 
 ## My skills
 
