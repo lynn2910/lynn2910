@@ -53,7 +53,7 @@ For 3 years,  I tested a lot of technologies in different fields, here is a litt
 
 ![Metrics](https://metrics.lecoq.io/lynn2910?template=classic&base.header=0&gists=1&lines=1&config.timezone=Europe%2FParis)
 
-** **
+<!-- ** **
 ℹ️ My profile's README is actually under construction, please be patient, i will upgrade it as soon as possible.
 ** **
 
@@ -69,4 +69,4 @@ For 3 years,  I tested a lot of technologies in different fields, here is a litt
 ![](https://github-contributor-stats.vercel.app/api?username=lynn2910&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
